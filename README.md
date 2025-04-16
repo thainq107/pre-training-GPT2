@@ -1,6 +1,7 @@
 # pre-training-GPT2
-Dataset: c4-small
-Install lib: requirements.txt
+- Dataset: c4-small
+- Models: GPT2-Small
+- Install lib: requirements.txt
 ## 1. Training:
   python train.py
 ## 2. Inference:
